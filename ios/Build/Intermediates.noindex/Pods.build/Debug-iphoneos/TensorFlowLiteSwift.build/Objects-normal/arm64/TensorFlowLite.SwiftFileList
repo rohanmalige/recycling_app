@@ -1,0 +1,11 @@
+/Users/rohan/development/flutter-tflite/example/live_object_detection_ssd_mobilenet/ios/Pods/TensorFlowLiteSwift/tensorflow/lite/swift/Sources/CoreMLDelegate.swift
+/Users/rohan/development/flutter-tflite/example/live_object_detection_ssd_mobilenet/ios/Pods/TensorFlowLiteSwift/tensorflow/lite/swift/Sources/Delegate.swift
+/Users/rohan/development/flutter-tflite/example/live_object_detection_ssd_mobilenet/ios/Pods/TensorFlowLiteSwift/tensorflow/lite/swift/Sources/Interpreter.swift
+/Users/rohan/development/flutter-tflite/example/live_object_detection_ssd_mobilenet/ios/Pods/TensorFlowLiteSwift/tensorflow/lite/swift/Sources/InterpreterError.swift
+/Users/rohan/development/flutter-tflite/example/live_object_detection_ssd_mobilenet/ios/Pods/TensorFlowLiteSwift/tensorflow/lite/swift/Sources/MetalDelegate.swift
+/Users/rohan/development/flutter-tflite/example/live_object_detection_ssd_mobilenet/ios/Pods/TensorFlowLiteSwift/tensorflow/lite/swift/Sources/Model.swift
+/Users/rohan/development/flutter-tflite/example/live_object_detection_ssd_mobilenet/ios/Pods/TensorFlowLiteSwift/tensorflow/lite/swift/Sources/QuantizationParameters.swift
+/Users/rohan/development/flutter-tflite/example/live_object_detection_ssd_mobilenet/ios/Pods/TensorFlowLiteSwift/tensorflow/lite/swift/Sources/SignatureRunner.swift
+/Users/rohan/development/flutter-tflite/example/live_object_detection_ssd_mobilenet/ios/Pods/TensorFlowLiteSwift/tensorflow/lite/swift/Sources/SignatureRunnerError.swift
+/Users/rohan/development/flutter-tflite/example/live_object_detection_ssd_mobilenet/ios/Pods/TensorFlowLiteSwift/tensorflow/lite/swift/Sources/Tensor.swift
+/Users/rohan/development/flutter-tflite/example/live_object_detection_ssd_mobilenet/ios/Pods/TensorFlowLiteSwift/tensorflow/lite/swift/Sources/TensorFlowLite.swift

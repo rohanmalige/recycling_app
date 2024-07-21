@@ -1,0 +1,34 @@
+Target dependency graph (12 targets)
+Target 'Runner' in project 'Runner'
+➜ Implicit dependency on target 'Pods-Runner' in project 'Pods' via file 'Pods_Runner.framework' in build phase 'Link Binary'
+➜ Implicit dependency on target 'TensorFlowLiteSwift' in project 'Pods' via options '-framework TensorFlowLite' in build setting 'OTHER_LDFLAGS'
+➜ Implicit dependency on target 'camera_avfoundation' in project 'Pods' via options '-framework camera_avfoundation' in build setting 'OTHER_LDFLAGS'
+➜ Implicit dependency on target 'image_picker_ios' in project 'Pods' via options '-framework image_picker_ios' in build setting 'OTHER_LDFLAGS'
+➜ Implicit dependency on target 'path_provider_foundation' in project 'Pods' via options '-framework path_provider_foundation' in build setting 'OTHER_LDFLAGS'
+Target 'Pods-Runner' in project 'Pods'
+➜ Explicit dependency on target 'Flutter' in project 'Pods'
+➜ Explicit dependency on target 'TensorFlowLiteC' in project 'Pods'
+➜ Explicit dependency on target 'TensorFlowLiteSwift' in project 'Pods'
+➜ Explicit dependency on target 'camera_avfoundation' in project 'Pods'
+➜ Explicit dependency on target 'image_picker_ios' in project 'Pods'
+➜ Explicit dependency on target 'path_provider_foundation' in project 'Pods'
+➜ Explicit dependency on target 'tflite_flutter' in project 'Pods'
+Target 'tflite_flutter' in project 'Pods'
+➜ Explicit dependency on target 'Flutter' in project 'Pods'
+➜ Explicit dependency on target 'TensorFlowLiteSwift' in project 'Pods'
+Target 'path_provider_foundation' in project 'Pods'
+➜ Explicit dependency on target 'Flutter' in project 'Pods'
+➜ Explicit dependency on target 'path_provider_foundation-path_provider_foundation_privacy' in project 'Pods'
+Target 'path_provider_foundation-path_provider_foundation_privacy' in project 'Pods' (no dependencies)
+Target 'image_picker_ios' in project 'Pods'
+➜ Explicit dependency on target 'Flutter' in project 'Pods'
+➜ Explicit dependency on target 'image_picker_ios-image_picker_ios_privacy' in project 'Pods'
+Target 'image_picker_ios-image_picker_ios_privacy' in project 'Pods' (no dependencies)
+Target 'camera_avfoundation' in project 'Pods'
+➜ Explicit dependency on target 'Flutter' in project 'Pods'
+➜ Explicit dependency on target 'camera_avfoundation-camera_avfoundation_privacy' in project 'Pods'
+Target 'camera_avfoundation-camera_avfoundation_privacy' in project 'Pods' (no dependencies)
+Target 'TensorFlowLiteSwift' in project 'Pods'
+➜ Explicit dependency on target 'TensorFlowLiteC' in project 'Pods'
+Target 'TensorFlowLiteC' in project 'Pods' (no dependencies)
+Target 'Flutter' in project 'Pods' (no dependencies)

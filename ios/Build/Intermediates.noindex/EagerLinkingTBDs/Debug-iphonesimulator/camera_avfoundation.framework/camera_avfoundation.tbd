@@ -1,0 +1,86 @@
+{
+  "main_library": {
+    "exported_symbols": [
+      {
+        "data": {
+          "global": [
+            "_FLTCaptureSessionQueueSpecific",
+            "_camera_avfoundationVersionString",
+            "_camera_avfoundationVersionNumber",
+            "_errorMethod"
+          ],
+          "objc_class": [
+            "FCPPlatformCameraDescription",
+            "FCPCameraApiCodecWriter",
+            "FCPPlatformCameraLensDirectionBox",
+            "FLTImageStreamHandler",
+            "FCPPlatformMediaSettings",
+            "FCPCameraEventApiCodecWriter",
+            "FCPCameraGlobalEventApi",
+            "PodsDummy_camera_avfoundation",
+            "FLTCam",
+            "FCPCameraApiCodecReader",
+            "FCPCameraEventApiCodecReaderWriter",
+            "FCPPlatformImageFormatGroupBox",
+            "CameraPlugin",
+            "FLTCamMediaSettingsAVWrapper",
+            "FCPPlatformCameraState",
+            "FCPCameraEventApiCodecReader",
+            "FCPPlatformResolutionPresetBox",
+            "FCPPlatformFlashModeBox",
+            "FCPPlatformExposureModeBox",
+            "FCPPlatformPoint",
+            "FCPPlatformImageFileFormatBox",
+            "FCPCameraApiCodecReaderWriter",
+            "FCPPlatformDeviceOrientationBox",
+            "FLTSavePhotoDelegate",
+            "FCPPlatformSize",
+            "FCPCameraEventApi",
+            "FCPPlatformFocusModeBox",
+            "FLTThreadSafeEventChannel"
+          ]
+        },
+        "text": {
+          "global": [
+            "_FCPCameraGlobalEventApiGetCodec",
+            "_FCPGetUIDeviceOrientationForPigeonDeviceOrientation",
+            "_FLTRequestCameraPermissionWithCompletionHandler",
+            "_SetUpFCPCameraApi",
+            "_FLTRequestPermission",
+            "_SetUpFCPCameraApiWithSuffix",
+            "_FCPCameraEventApiGetCodec",
+            "_FCPGetPigeonDeviceOrientationForOrientation",
+            "_FCPGetAVCaptureFlashModeForPigeonFlashMode",
+            "_FLTRequestAudioPermissionWithCompletionHandler",
+            "_FCPCameraApiGetCodec",
+            "_FCPGetPixelFormatForPigeonFormat",
+            "_FLTEnsureToRunOnMainQueue"
+          ]
+        }
+      }
+    ],
+    "flags": [
+      {
+        "attributes": [
+          "not_app_extension_safe"
+        ]
+      }
+    ],
+    "install_names": [
+      {
+        "name": "@rpath/camera_avfoundation.framework/camera_avfoundation"
+      }
+    ],
+    "target_info": [
+      {
+        "min_deployment": "12",
+        "target": "x86_64-ios-simulator"
+      },
+      {
+        "min_deployment": "14",
+        "target": "arm64-ios-simulator"
+      }
+    ]
+  },
+  "tapi_tbd_version": 5
+}

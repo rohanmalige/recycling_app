@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/rohan/development/flutter-tflite/example/live_object_detection_ssd_mobilenet/ios/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/camera_avfoundation.build/module.modulemap \
+  /Users/rohan/.pub-cache/hosted/pub.dev/camera_avfoundation-0.9.17+1/ios/camera_avfoundation/Sources/camera_avfoundation/messages.g.m \
+  /Users/rohan/development/flutter-tflite/example/live_object_detection_ssd_mobilenet/ios/Pods/Target\ Support\ Files/camera_avfoundation/camera_avfoundation-prefix.pch \
+  /Users/rohan/.pub-cache/hosted/pub.dev/camera_avfoundation-0.9.17+1/ios/camera_avfoundation/Sources/camera_avfoundation/./include/camera_avfoundation/messages.g.h \
+  /Users/rohan/development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Modules/module.modulemap \
+  /Users/rohan/development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/Flutter.h \
+  /Users/rohan/development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterAppDelegate.h \
+  /Users/rohan/development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterMacros.h \
+  /Users/rohan/development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterPlugin.h \
+  /Users/rohan/development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/rohan/development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterChannels.h \
+  /Users/rohan/development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterCodecs.h \
+  /Users/rohan/development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterPlatformViews.h \
+  /Users/rohan/development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterTexture.h \
+  /Users/rohan/development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterCallbackCache.h \
+  /Users/rohan/development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterDartProject.h \
+  /Users/rohan/development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterEngine.h \
+  /Users/rohan/development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterEngineGroup.h \
+  /Users/rohan/development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
+  /Users/rohan/development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
+  /Users/rohan/development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterViewController.h

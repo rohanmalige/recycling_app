@@ -1,0 +1,23 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/rohan/development/flutter-tflite/example/live_object_detection_ssd_mobilenet/build/ios/Debug-iphonesimulator/TensorFlowLiteSwift/TensorFlowLite.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/rohan/development/flutter-tflite/example/live_object_detection_ssd_mobilenet/ios/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/TensorFlowLiteSwift.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    'type': 'directory',
+    'name': "/Users/rohan/development/flutter-tflite/example/live_object_detection_ssd_mobilenet/build/ios/Debug-iphonesimulator/TensorFlowLiteSwift/TensorFlowLite.framework/Headers"
+    'contents': [{
+      'type': 'file',
+      'name': "TensorFlowLite-Swift.h",
+      'external-contents': "/Users/rohan/development/flutter-tflite/example/live_object_detection_ssd_mobilenet/ios/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/TensorFlowLiteSwift.build/unextended-interface-header.h",
+    }]
+    }]
+}
