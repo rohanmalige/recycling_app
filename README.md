@@ -107,12 +107,15 @@ query {
 ## Postman API Calls
 Postman can be used to test and translate the GraphQL queries into equivalent Dart code for use in the Flutter app. By making API calls through Postman, you can easily debug and generate the necessary headers, body, and GraphQL query formats required for integration. This is particularly useful when working with complex GraphQL queries and mutations, allowing you to verify their correctness before implementing them in Dart.
 
-## GIF
-![]
-(https://github.com/rohanmalige/recycling_app/blob/main/recycling_app.gif)
+
+
 
 ## Contributing
 Please fork the repository and submit a pull request with your contributions.
+
+## VIDEO DEMO
+https://github.com/user-attachments/assets/ef2eb333-f479-4260-af8f-c802befbc349
+
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
