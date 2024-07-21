@@ -4,7 +4,8 @@ A comprehensive recycling app built with Flutter that uses TensorFlow Lite for l
 
 ## Features
 
-- **Live Object Detection**: Utilizes TensorFlow Lite for real-time object detection.
+- **Live Object Detection**: Utilizes TensorFlow Lite for real-time object detection. Tensor flow model used from [github]https://github.com/tensorflow/flutter-tflite/tree/main/example/object_detection_ssd_mobilenet/lib
+
 - **Object Classification**: Uses OpenAI API to determine if detected objects are recyclable.
 - **Token Earning**: Users earn tokens based on the number of recyclable items detected.
 - **Transaction Logging**: Integrates with ResilientDB to log transactions and retrieve transaction details.
